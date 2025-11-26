@@ -12,15 +12,16 @@ Topics Covered
 
 
 *Practice Problems Implemented
-
   Even or Odd checker
-  
   Largest of three numbers
-  
-  Prime numbers from 1 to 50
-  
+  Prime numbers from 1 to 5
   Vowel counter
-  
   String reversal
-  
   Fibonacci series
+  
+**project:unit_converter 
+A CLI-based tool to convert units  :##CLI-command line interface,the program runs inside the terminal 
+->km to miles 
+->celsius to fahrenheit 
+->rupees to dollars
+->hours to minutes
